@@ -1,11 +1,3 @@
-<style>
-    .profilna {
-        border-radius: 50%;
-    }
-    .container {
-       background-color: rgb(91, 86, 86);
-       border:none;
-    }
     p {
         color: white;
     }
@@ -44,4 +36,10 @@
       font-weight: bolder;
       text-decoration:solid;
     }
-</style>
+    .profilna {
+        border-radius: 50%;
+    }
+    .container {
+       background-color: rgb(91, 86, 86);
+       border:none;
+    }
