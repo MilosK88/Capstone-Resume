@@ -1,0 +1,47 @@
+<style>
+    .profilna {
+        border-radius: 50%;
+    }
+    .container {
+       background-color: rgb(91, 86, 86);
+       border:none;
+    }
+    p {
+        color: white;
+    }
+    @media (max-width: 780px) {
+        .profilna {
+            height: 300px;
+            width: 300px;
+        } }
+        @media (max-width: 340px) {
+        .profilna {
+            height: 150px;
+            width: 150px;
+        }
+    }
+    .podvuci {
+        font-family: fantasy;
+        text-decoration: underline;
+    }
+    .gore {
+        color:yellow;
+        font-weight: bold;
+        font-style: italic;
+    }
+    .cover-container {
+        background-image: url(./images/inspire.jpg);
+        background-clip: cover;
+    }
+    h1 {
+        color:yellow
+    }
+    .trademark {
+        color:red;
+    }
+    #cena {
+      font-family: fantasy ;
+      font-weight: bolder;
+      text-decoration:solid;
+    }
+</style>
